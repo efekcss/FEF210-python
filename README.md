@@ -4,4 +4,4 @@ FEF210 Murat hocanın python notları python temeli için hatta advance'e de bir
  
 1.Ders içeriği daha çok python'ı tanımak üzerine olduğundan doğrudaN somut ve çok fazla bilgi içeren bir not olmayacakt ancak önemli gördüğüm ayrıntıları tabiki not olarak alacağım.
 
-Murat hocanın notlarından benim notlarım örtüşecek şekilde gideceğim o yüzden 1. ve 2. not çok kısa olup 3 veya 4 çok uzun olabilir bunun sebebi hocanın o ders notuna çok konu sığdırmasnıdan dolayı.
+Murat hocanın notlarından benim notlarım örtüşecek şekilde gideceğim o yüzden 1. ve 2. not çok kısa olup 3 veya 4 çok uzun olabilir bunun sebebi hocanın o ders notuna çok konu sığdırmasnıdan dolaylıdır.
